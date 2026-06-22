@@ -1,2 +1,0 @@
-
-1. first complete heap then come to heap sort 
