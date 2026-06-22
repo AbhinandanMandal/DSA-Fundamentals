@@ -1,4 +1,6 @@
 # DSA Fundamentals
+<img width="1536" height="1024" alt="ChatGPT Image Jun 22, 2026, 02_27_58 PM" src="https://github.com/user-attachments/assets/a6db4188-0289-47da-8647-22a5fda4a466" />
+
 
 The repository consist of fundamental questions on data structure and algorithm. The question is taken from original sources like,
 1. [LeetCode](https://leetcode.com/)
