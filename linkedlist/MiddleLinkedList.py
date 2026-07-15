@@ -13,8 +13,8 @@ head.next.next.next.next = Node(50)
 
 
 def MiddleLinkedList(head):
-    if head == None:
-        return
+    if head is None:
+        return None
 
     count = 0
     curr = head
