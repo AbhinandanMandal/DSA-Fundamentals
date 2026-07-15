@@ -12,17 +12,20 @@ head.next.next.next = Node(40)
 head.next.next.next.next = Node(50)
 
 
-def IsSorted(head):
-    if head is None or head.next is None:
+def IsLinkedListSorted(head):
+    if head is None and head.next is None:
         return True
-    
+
+    # Condition for if the linked list is like of
+    # 3,4,5,5,5,5,5,6
     curr = head
     while curr.next and curr.key == curr.next.key:
-        curr = curr.next 
-
+        curr = curr.next
     if curr.next is None:
         return True
-    
+
+    # At initial we're considering linkedlist as
+    # 1,2,3,4,5, None
     ascending = curr.key < curr.next.key
     while curr.next:
         if ascending:
@@ -30,8 +33,9 @@ def IsSorted(head):
                 return False
         else:
             if curr.key < curr.next.key:
-                return True
-        curr = curr.next 
+                return False
+        curr = curr.next
     return True
 
-print(IsSorted(head))
+
+print(IsLinkedListSorted(head))
