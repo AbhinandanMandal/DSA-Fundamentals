@@ -1,20 +1,44 @@
 
-data structures basic
+Data Structures (Basic)
+------------------------------
+1. Analysis of algorithms
+2. Mathematics
+3. List
+4. Recursion
+5. Searching
+6. Sorting
+7. Hashing
+8. String 
+9. Linked List 
+10. Circular Linked List 
+11. Doubly Linked List 
+12. Stack 
+13. Queue
+14. Deque
+15. Tree
+16. Binary Search Tree 
+17. Heap 
 
-1. analysis of algorithms
-2. mathematics
-3. list
-4. recursion
-5. searching
-6. sorting
-7. hashing
-8. string 
-9. linked list 
-10. circular linked list 
-11. doubly linked list 
-12. stack 
-13. queue
-14. deque
-15. tree
-16. binary search tree 
-17. heap 
+Data Structures (Advanced)
+-----------------------------
+1. Bit Magic 
+2. List 
+3. Recursion 
+4. Searching 
+5. Sorting 
+6. Matrix 
+7. Hashing 
+8. String 
+9. Linked List 
+10. Stack 
+11. Queue & Qeque
+12. Tree 
+13. Binary Search Tree 
+14. Heap 
+15. Graph 
+16. Greedy 
+17. Backtracking 
+18. Dynamic Programming 
+19. Trie 
+20. Segment and Binary Indexed Trees 
+21. Disjoint Set 
